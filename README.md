@@ -1,8 +1,7 @@
 # ARAE
-tensorflow implementation of [Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223) (ARAE)
+tensorflow implementation of [Adversarially Regularized Autoencoders for Generating Discrete Structures] (https://arxiv.org/abs/1706.04223) (ARAE)  adapted for graphs
 
-While the Paper used the Stanford Natural Language Inference dataset for the text generation, this implementation only used the mnist dataset.
-I implemented the continuous version for this implementaion, but discrete version is implemented as footnote in this code.
+original implementationI implemented the continuous version for this implementaion, but discrete version is implemented as footnote in this code.
 
 <p>
   <img src="https://raw.githubusercontent.com/soobin3230/ARAE/master/png/map.png" width="1024"/>
